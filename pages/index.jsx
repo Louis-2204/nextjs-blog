@@ -23,8 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           {/* fake generic self introduction */}
-          Hi, I'm Louis. I'm a software engineer and a musician. I'm currently
-          working on a project called <a href="https://www.thesoundmind.org">The Sound Mind</a>.
+          Hi, I'm Louis. I'm a web developer and I'm currently learning Next.js
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
